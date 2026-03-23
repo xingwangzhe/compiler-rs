@@ -20,7 +20,12 @@
   "files": [
     "index.d.ts",
     "index.js",
-    "browser.js"
+    "browser.js",
+    "astro.wasi.cjs",
+    "astro.wasi-browser.js",
+    "wasi-worker.mjs",
+    "wasi-worker-browser.mjs",
+    "*.wasm"
   ],
   "type": "module",
   "main": "index.js",
